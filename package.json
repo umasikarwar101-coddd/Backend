@@ -1,13 +1,20 @@
 {
   "name": "chai_backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "a backend at chai aurcode channel-youtube",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
